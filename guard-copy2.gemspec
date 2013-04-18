@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name        = 'guard-copy'
+  s.name        = 'guard-copy2'
   s.version     = '0.0.2'
   s.date        = '2013-04-17'
   s.summary     = "A Guard plugin to watch and copy files"
